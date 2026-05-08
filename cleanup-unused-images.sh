@@ -1,0 +1,51 @@
+#!/bin/sh
+# Cleanup unused images in the project.
+# Review before running. This file is generated to help remove images not referenced in HTML/CSS/JS.
+
+rm -v images/.DS_Store
+rm -v images/bg_0.jpg
+rm -v images/bg_3.jpg
+rm -v images/frizz.jpg
+rm -v images/logo.png
+rm -v images/logo2.png
+rm -v images/logo4.png
+rm -v images/logoV2.png
+rm -v images/main2.png
+rm -v images/partner-5.1.png
+rm -v images/partner-5.1rz.png
+rm -v images/partner-5.png
+rm -v images/partner-6.1.png
+rm -v images/partner-6.avif
+rm -v images/partner-6.png
+rm -v images/partner-6rz.png
+rm -v images/partner-7.png
+rm -v images/pm_logo.png
+rm -v images/pm_logo2.png
+rm -v images/2.JPG
+rm -v images/work-1.jpg
+rm -v images/work-2.jpg
+rm -v images/work-3.jpg
+rm -v images/work-4.jpg
+rm -v images/work-5.jpg
+rm -v images/work-6.jpg
+rm -v images/work-7.jpg
+rm -v images/work-8.jpg
+rm -v images/work-9.jpg
+rm -v images/work-14.JPG
+rm -v images/work-15.jpeg
+rm -v images/work-16.jpeg
+rm -v images/work-17.JPG
+rm -v images/work-18.JPG
+rm -v images/work-19.jpeg
+rm -v images/work-20.jpeg
+rm -v images/work-21.JPG
+rm -v images/work-22.jpeg
+rm -v images/work-23.JPG
+rm -v images/work-24.JPG
+rm -v images/work-25.png
+rm -v images/work-26.JPG
+rm -v images/work-27.JPG
+rm -v images/work-29.jpeg
+rm -v images/work-31.jpeg
+rm -v images/work-35.jpeg
+rm -v images/work-hero.jpg
